@@ -82,15 +82,15 @@ Moves:
 	move SEISMIC_TOSS, SPECIAL_DAMAGE_EFFECT,        1, FIGHTING,     100, 20
 	move STRENGTH,     NO_ADDITIONAL_EFFECT,        80, NORMAL,       100, 15
 	move ABSORB,       DRAIN_HP_EFFECT,             20, GRASS,        100, 20
-	move MEGA_DRAIN,   DRAIN_HP_EFFECT,             40, GRASS,        100, 10
+	move MEGA_DRAIN,   DRAIN_HP_EFFECT,             60, GRASS,        100, 10
 	move LEECH_SEED,   LEECH_SEED_EFFECT,            0, GRASS,         90, 10
 	move GROWTH,       SPECIAL_UP1_EFFECT,           0, NORMAL,       100, 40
-	move RAZOR_LEAF,   NO_ADDITIONAL_EFFECT,        55, GRASS,         95, 25
-	move SOLARBEAM,    CHARGE_EFFECT,              120, GRASS,        100, 10
+	move RAZOR_LEAF,   NO_ADDITIONAL_EFFECT,        70, GRASS,        100, 25
+	move SOLARBEAM,    CHARGE_EFFECT,              150, GRASS,        100, 10
 	move POISONPOWDER, POISON_EFFECT,                0, POISON,        75, 35
 	move STUN_SPORE,   PARALYZE_EFFECT,              0, GRASS,         75, 30
 	move SLEEP_POWDER, SLEEP_EFFECT,                 0, GRASS,         75, 15
-	move PETAL_DANCE,  THRASH_PETAL_DANCE_EFFECT,   70, GRASS,        100, 20
+	move PETAL_DANCE,  THRASH_PETAL_DANCE_EFFECT,   90, GRASS,        100, 20
 	move STRING_SHOT,  SPEED_DOWN1_EFFECT,           0, BUG,           95, 40
 	move DRAGON_RAGE,  SPECIAL_DAMAGE_EFFECT,        1, DRAGON,       100, 10
 	move FIRE_SPIN,    TRAPPING_EFFECT,             60, FIRE,          90, 15
